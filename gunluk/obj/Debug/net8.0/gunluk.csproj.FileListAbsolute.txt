@@ -1,0 +1,14 @@
+/Users/mehmetiyiyazici/Documents/works/gunluk/bin/Debug/net8.0/gunluk
+/Users/mehmetiyiyazici/Documents/works/gunluk/bin/Debug/net8.0/gunluk.deps.json
+/Users/mehmetiyiyazici/Documents/works/gunluk/bin/Debug/net8.0/gunluk.runtimeconfig.json
+/Users/mehmetiyiyazici/Documents/works/gunluk/bin/Debug/net8.0/gunluk.dll
+/Users/mehmetiyiyazici/Documents/works/gunluk/bin/Debug/net8.0/gunluk.pdb
+/Users/mehmetiyiyazici/Documents/works/gunluk/obj/Debug/net8.0/gunluk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetiyiyazici/Documents/works/gunluk/obj/Debug/net8.0/gunluk.AssemblyInfoInputs.cache
+/Users/mehmetiyiyazici/Documents/works/gunluk/obj/Debug/net8.0/gunluk.AssemblyInfo.cs
+/Users/mehmetiyiyazici/Documents/works/gunluk/obj/Debug/net8.0/gunluk.csproj.CoreCompileInputs.cache
+/Users/mehmetiyiyazici/Documents/works/gunluk/obj/Debug/net8.0/gunluk.dll
+/Users/mehmetiyiyazici/Documents/works/gunluk/obj/Debug/net8.0/refint/gunluk.dll
+/Users/mehmetiyiyazici/Documents/works/gunluk/obj/Debug/net8.0/gunluk.pdb
+/Users/mehmetiyiyazici/Documents/works/gunluk/obj/Debug/net8.0/gunluk.genruntimeconfig.cache
+/Users/mehmetiyiyazici/Documents/works/gunluk/obj/Debug/net8.0/ref/gunluk.dll
