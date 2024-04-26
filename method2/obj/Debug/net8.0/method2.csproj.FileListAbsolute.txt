@@ -1,0 +1,14 @@
+/Users/mehmetiyiyazici/Documents/works/method2/bin/Debug/net8.0/method2
+/Users/mehmetiyiyazici/Documents/works/method2/bin/Debug/net8.0/method2.deps.json
+/Users/mehmetiyiyazici/Documents/works/method2/bin/Debug/net8.0/method2.runtimeconfig.json
+/Users/mehmetiyiyazici/Documents/works/method2/bin/Debug/net8.0/method2.dll
+/Users/mehmetiyiyazici/Documents/works/method2/bin/Debug/net8.0/method2.pdb
+/Users/mehmetiyiyazici/Documents/works/method2/obj/Debug/net8.0/method2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetiyiyazici/Documents/works/method2/obj/Debug/net8.0/method2.AssemblyInfoInputs.cache
+/Users/mehmetiyiyazici/Documents/works/method2/obj/Debug/net8.0/method2.AssemblyInfo.cs
+/Users/mehmetiyiyazici/Documents/works/method2/obj/Debug/net8.0/method2.csproj.CoreCompileInputs.cache
+/Users/mehmetiyiyazici/Documents/works/method2/obj/Debug/net8.0/method2.dll
+/Users/mehmetiyiyazici/Documents/works/method2/obj/Debug/net8.0/refint/method2.dll
+/Users/mehmetiyiyazici/Documents/works/method2/obj/Debug/net8.0/method2.pdb
+/Users/mehmetiyiyazici/Documents/works/method2/obj/Debug/net8.0/method2.genruntimeconfig.cache
+/Users/mehmetiyiyazici/Documents/works/method2/obj/Debug/net8.0/ref/method2.dll
