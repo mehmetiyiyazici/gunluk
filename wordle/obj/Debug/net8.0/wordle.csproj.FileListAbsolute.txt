@@ -1,0 +1,14 @@
+/Users/mehmetiyiyazici/Documents/works/wordle/bin/Debug/net8.0/wordle
+/Users/mehmetiyiyazici/Documents/works/wordle/bin/Debug/net8.0/wordle.deps.json
+/Users/mehmetiyiyazici/Documents/works/wordle/bin/Debug/net8.0/wordle.runtimeconfig.json
+/Users/mehmetiyiyazici/Documents/works/wordle/bin/Debug/net8.0/wordle.dll
+/Users/mehmetiyiyazici/Documents/works/wordle/bin/Debug/net8.0/wordle.pdb
+/Users/mehmetiyiyazici/Documents/works/wordle/obj/Debug/net8.0/wordle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mehmetiyiyazici/Documents/works/wordle/obj/Debug/net8.0/wordle.AssemblyInfoInputs.cache
+/Users/mehmetiyiyazici/Documents/works/wordle/obj/Debug/net8.0/wordle.AssemblyInfo.cs
+/Users/mehmetiyiyazici/Documents/works/wordle/obj/Debug/net8.0/wordle.csproj.CoreCompileInputs.cache
+/Users/mehmetiyiyazici/Documents/works/wordle/obj/Debug/net8.0/wordle.dll
+/Users/mehmetiyiyazici/Documents/works/wordle/obj/Debug/net8.0/refint/wordle.dll
+/Users/mehmetiyiyazici/Documents/works/wordle/obj/Debug/net8.0/wordle.pdb
+/Users/mehmetiyiyazici/Documents/works/wordle/obj/Debug/net8.0/wordle.genruntimeconfig.cache
+/Users/mehmetiyiyazici/Documents/works/wordle/obj/Debug/net8.0/ref/wordle.dll
